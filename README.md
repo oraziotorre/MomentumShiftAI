@@ -1,1 +1,1 @@
-# -GameShiftAI
+# GameShiftAI
