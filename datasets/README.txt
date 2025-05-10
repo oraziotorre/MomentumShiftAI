@@ -14,3 +14,4 @@
 
 !!! ATTENZIONE !!!
 Nel dataset "tennis" è necessario rimuovere l'ultimo valore delle progressioni di punteggio.
+Capire come gestire le istanze che vanno ai vantaggi.
