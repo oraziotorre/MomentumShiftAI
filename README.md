@@ -40,5 +40,3 @@ The project experiments with various model architectures including:
 - Gradient boosting models with engineered features
 
 Models are trained to classify whether a comeback or momentum shift occurs within a match window, using scoring sequences and contextual match metadata.
-
-## 📦 Structure
