@@ -29,8 +29,6 @@ Each sport has its own dataset structure and progression patterns, which are han
 - Tennis datasets are ordered **from most recent to oldest**
 - **Inverted instances** (i.e., mirrored match records) start from the midpoint of each dataset
 
-> ⚠️ In the `tennis` dataset, the **last value of the score progression must be removed** during preprocessing.
-
 ## 🧠 Models
 
 The project experiments with various model architectures including:
