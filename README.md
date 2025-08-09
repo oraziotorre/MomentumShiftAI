@@ -27,14 +27,3 @@ Each sport has its own dataset structure and progression patterns, which are han
 
 - Table tennis datasets are ordered **from oldest to most recent**
 - Tennis datasets are ordered **from most recent to oldest**
-- **Inverted instances** (i.e., mirrored match records) start from the midpoint of each dataset
-
-## 🧠 Models
-
-The project experiments with various model architectures including:
-
-- Recurrent Neural Networks (RNNs)
-- Transformer-based sequence models
-- Gradient boosting models with engineered features
-
-Models are trained to classify whether a comeback or momentum shift occurs within a match window, using scoring sequences and contextual match metadata.
