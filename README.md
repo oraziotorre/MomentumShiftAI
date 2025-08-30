@@ -5,6 +5,7 @@
 ---
 
 ## 🎯 Main Goals
+- 📊 **Dataset construction**: build reproducible datasets for tennis (point → game progression) and table tennis (point → set progression).
 - 🔢 **Theoretical probabilistic formulas**: estimate the probability of winning from any intermediate score state.  
 - 🤖 **Machine learning models**: capture recurring patterns and sequential dynamics that theoretical models cannot fully explain.  
 - 🔍 **Scoring sequence analysis**: identify key moments such as *momentum shifts* and *comebacks*.  
