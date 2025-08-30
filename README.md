@@ -1,22 +1,21 @@
 # MomentumShiftAI 🎾🏓
 
-**MomentumShiftAI** è un progetto di *machine learning* dedicato all’analisi delle dinamiche interne delle partite di **tennis** e **tennis tavolo**.  
+**MomentumShiftAI** is a *machine learning* project dedicated to analyzing the inner dynamics of **tennis** and **table tennis** matches.  
 
 ---
 
-## 🎯 Obiettivi principali
-- 🔢 **Formule probabilistiche teoriche**: stimare la probabilità di vittoria da qualsiasi stato intermedio del punteggio.  
-- 🤖 **Modelli di machine learning**: catturare pattern ricorrenti e dinamiche sequenziali che i modelli teorici non riescono considerare.  
-- 🔍 **Analisi delle sequenze di punteggio**: individuare momenti chiave come *momentum shift* e *comebacks*.  
-- 🧠 **Studio dei fattori psicologici**: comprendere come la pressione competitiva influenzi le prestazioni.  
+## 🎯 Main Goals
+- 🔢 **Theoretical probabilistic formulas**: estimate the probability of winning from any intermediate score state.  
+- 🤖 **Machine learning models**: capture recurring patterns and sequential dynamics that theoretical models cannot fully explain.  
+- 🔍 **Scoring sequence analysis**: identify key moments such as *momentum shifts* and *comebacks*.  
+- 🧠 **Psychological factors study**: understand how competitive pressure influences performance.  
 
 ---
 
-## 🏆 Risultati
-- ✅ Nel **tennis**, le formule teoriche hanno mostrato ottima aderenza ai dati reali (scostamento massimo ≈ **3%**) e hanno permesso di analizzare i **pattern di rimonta** per ranking e individui.  
-- ✅ Nel **tennis tavolo**, le reti **LSTM** si sono rivelate più efficaci delle formule chiuse, grazie alla loro capacità di modellare la natura sequenziale dei dati.  
+## 🏆 Results
+- ✅ In **tennis**, the theoretical formulas showed excellent adherence to real data (maximum deviation ≈ **3%**) and allowed the analysis of **comeback patterns** across different rankings and individual players.  
+- ✅ In **table tennis**, **LSTM networks** proved to be more effective than closed-form formulas, thanks to their ability to model the sequential nature of the data.  
 
 ---
 
-
-MomentumShiftAI non è solo un progetto accademico, ma una base solida e riutilizzabile per chi voglia replicare il lavoro svolto, esplorare nuove idee o sviluppare applicazioni future.
+MomentumShiftAI is a solid and reusable foundation for those who want to explore new ideas or develop future applications.  
