@@ -1,6 +1,6 @@
 # MomentumShiftAI 🎾🏓
 
-**MomentumShiftAI** is a *machine learning* project dedicated to analyzing the inner dynamics of **tennis** and **table tennis** matches.  
+**MomentumShiftAI** is a *machine learning* project dedicated to analyzing the inner dynamics of **tennis** and **table tennis** matches.
 
 ---
 
@@ -19,4 +19,4 @@
 
 ---
 
-For a complete description of MomentumShiftAI, please refer to my [Bachelor's thesis](https://drive.google.com/file/d/1bJt7ps3FScMrxZWp04LfvEHSwbLemLjm/view).
+This repository contains the practical implementation underlying my Bachelor's thesis, [“Predicting Outcomes in Individual Sports: A Study on the Role of Recurrent Dynamics in Scoring Progressions”](https://drive.google.com/file/d/1bJt7ps3FScMrxZWp04LfvEHSwbLemLjm/view), which provides a detailed description of the methodology and results.
