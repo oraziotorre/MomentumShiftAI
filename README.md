@@ -19,4 +19,4 @@
 
 ---
 
-MomentumShiftAI is a solid and reusable foundation for those who want to explore new ideas or develop future applications.  
+For a complete description of MomentumShiftAI, please refer to my [Bachelor's thesis](https://drive.google.com/file/d/1bJt7ps3FScMrxZWp04LfvEHSwbLemLjm/view).
